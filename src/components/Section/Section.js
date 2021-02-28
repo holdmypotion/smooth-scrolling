@@ -1,6 +1,6 @@
 import React from "react";
 
-import "./section.css";
+import "./Section.css";
 
 const section = ({ flexDirection }) => {
   return (
