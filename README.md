@@ -56,7 +56,7 @@ Don't worry if this doesn't make sense. Hopefully, the code will make it clearer
 
 # Final File Structure
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fe39b8f9-d15f-451e-8c9a-d361df1c5bf9/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fe39b8f9-d15f-451e-8c9a-d361df1c5bf9/Untitled.png)
+![File Structure](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sbvihlnc9crqp36caqtt.png)
 
 # SmoothScroll.js
 
