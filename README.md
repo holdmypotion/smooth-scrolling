@@ -2,11 +2,11 @@ I have been wanting to redo my portfolio, and one of the major things I wanted i
 
 In this blog, we'll be creating that together. So, let's get right into it.
 
-Live Link: [https://usqn6.csb.app/](https://usqn6.csb.app/)
+[Live Link](https://lic4s.csb.app/)
 
-CodeSandBox: [https://codesandbox.io/s/react-super-simple-smooth-scrolling-usqn6](https://codesandbox.io/s/react-super-simple-smooth-scrolling-usqn6)
+[CodeSandBox](https://codesandbox.io/s/react-super-simple-smooth-scroll-lic4s)
 
-Github: [https://github.com/holdmypotion/smooth-scrolling](https://github.com/holdmypotion/smooth-scrolling)
+[Github Repo](https://github.com/holdmypotion/smooth-scrolling)
 
 # Setup
 
@@ -287,11 +287,11 @@ h2 {
 }
 ```
 
-Live Link: [https://usqn6.csb.app/](https://usqn6.csb.app/)
+[Live Link](https://lic4s.csb.app/)
 
-CodeSandBox: [https://codesandbox.io/s/react-super-simple-smooth-scrolling-usqn6](https://codesandbox.io/s/react-super-simple-smooth-scrolling-usqn6)
+[CodeSandBox](https://codesandbox.io/s/react-super-simple-smooth-scroll-lic4s)
 
-Github: [https://github.com/holdmypotion/smooth-scrolling](https://github.com/holdmypotion/smooth-scrolling)
+[Github Repo](https://github.com/holdmypotion/smooth-scrolling)
 
 ### Thank you for reading!
 
